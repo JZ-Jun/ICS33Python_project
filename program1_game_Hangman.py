@@ -1,3 +1,8 @@
+#Game Hangman
+#The user needs to be able to input letter guesses.
+#There needs to be a limit on how many guesses they can use. (To keep things simple pick 3?) 
+#Keep notifying the user of the remaining turns.
+
 # pip install RandomWords
 from random_words import RandomWords
 
