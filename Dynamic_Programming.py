@@ -1,4 +1,8 @@
-# Jun Zhu
+# Using Dynamic Programming:  Giving user input which is string s , return the longest palindromic substring in s.
+#Constraints:
+#1 <= s.length <= 1000
+#s consist of only digits and English letters.
+
 def ifpalstr(str1):
     x = len(str1)
     if x % 2 == 0:
