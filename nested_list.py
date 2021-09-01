@@ -1,5 +1,8 @@
-# Given the names and grades for each student in a class of N students, store them in a nested list
-# and print the names of any students(s) having the second lowest grade.
+'''
+Given the names and grades for each student in a class of N students, store them in a nested list
+and print the names of any students(s) having the second lowest grade.
+'''
+
 def findsecstu():
     num = int(input())
     totallist = []
